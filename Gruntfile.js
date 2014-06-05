@@ -4,9 +4,9 @@ module.exports = function(grunt) {
     nodewebkit: {
       options: {
         build_dir: './build',
-        win: false,
-        mac: false,
-        linux32: false,
+        win: true,
+        mac: true,
+        linux32: true,
         linux64: true
       },
       src: ['./src/**/*']

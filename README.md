@@ -5,4 +5,4 @@ Stick it to your desktop and track the progress of the [MayDay PAC project](http
 It's really widgetalicious.
 
 ### Screenshot
-![A screenshot of it running](https://www.dropbox.com/s/a616bz07ops40u3/MayWatchWidget.png)
+![A screenshot of it running](https://dl-web.dropbox.com/get/MayWatchWidget.png?_subject_uid=233309195&w=AABd3-Aa7Y4UCrMhSrM9nIwbPRKSbojP2R0aoKGy45hhyA)

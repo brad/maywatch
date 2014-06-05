@@ -5,6 +5,9 @@
   "window": {
     "toolbar": false,
     "frame": false,
-    "position": "center"
+    "position": "center",
+    "width": 300,
+    "height": 350,
+    "always-on-top": true
   }
 }
